@@ -1,0 +1,8 @@
+{
+  "name": "RCADE_DEPLOY_TEST",
+  "description": "A Demo Deployment",
+  "visibility": "public",
+  "authors": {
+    "display_name": "Frank Chiarulli Jr."
+  }
+}
